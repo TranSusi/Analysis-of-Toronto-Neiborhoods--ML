@@ -1,4 +1,4 @@
-# Toronto-Neighborhoods-Analysis using ML
+# Toronto-Neighborhoods-Analysis using Scikit-Learn, Plotly
 This analysis is inspired from a conversation among me and other Vietnamese students who has studied, lived in Finland and thinking about a good place outside Finland to experience later on.  <br />
 Jupyter Notebook, Report, Blog are included with links.  <br />
 
